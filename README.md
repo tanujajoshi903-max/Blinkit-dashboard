@@ -11,8 +11,11 @@ This project presents an interactive Blinkit Sales Analysis Dashboard built usin
 
 ## Business Requirements
 The objective was to conduct a granular analysis of sales data to answer specific business questions:
+
 KPI Tracking: Monitor Total Sales, Average Sales, Number of Items, and Average Rating.
+
 Product Performance: Analyze the impact of Fat Content and Item Type on revenue.
+
 Outlet Strategy: Evaluate how outlet age (Establishment Year), size, and location (Tier 1/2/3) influence sales performance.
+
 Operational Efficiency: Compare metrics across different Outlet Types (Supermarkets vs. Grocery Stores).
-  

@@ -60,3 +60,7 @@ Excel/CSV: Source data format.
 	•	Outlet size & location comparison
 	•	Interactive filters (Location, Size, Item Type)
 	•	Clean and user-friendly layout
+
+## Dashboard
+<img width="1301" height="736" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/29592845-0f40-4ac0-ad67-be1dfdc05acc" />
+

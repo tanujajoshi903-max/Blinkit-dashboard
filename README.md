@@ -30,3 +30,14 @@ The dashboard tracks four primary High-Level Metrics:
     Number of Items: 8,523 (Total count of different items sold)
 
     Average Rating: 3.9 (Average customer rating for items sold)
+
+## Visualizations & Insights
+The dashboard is broken down into several granular views:
+
+    Sales by Fat Content: Analyzes how "Low Fat" vs. "Regular" products impact total sales.
+
+    Item Type Performance: A breakdown of sales across categories like Fruits, Snacks, Household, and Frozen foods.
+
+    Outlet Establishment Trend: A line chart showing the growth of sales based on the year of outlet establishment (peaking in 2018 at $205K).
+
+    Outlet Size & Location: * Size: Impact of Small, Medium, and High-sized outlets on revenue. (Location: Sales distribution across Tier 1, Tier 2, and Tier 3 cities.)

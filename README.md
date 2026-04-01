@@ -64,3 +64,6 @@ Excel/CSV: Source data format.
 ## Dashboard
 <img width="1301" height="736" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/29592845-0f40-4ac0-ad67-be1dfdc05acc" />
 
+## Final Conclusion
+This dashboard provides a blueprint for data-driven decision-making, allowing Blinkit to transition from reactive management to proactive, localized inventory and expansion strategies.
+

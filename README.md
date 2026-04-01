@@ -2,6 +2,9 @@
 ## Project Overview
 This project presents an interactive Blinkit Sales Analysis Dashboard built using Power BI. The goal is to analyze sales performance, customer satisfaction, and inventory distribution to uncover key insights and support data-driven decision-making
 
+## Dataset Used
+- <a href="https://github.com/tanujajoshi903-max/Blinkit-dashboard/blob/main/BlinkIT%20Grocery%20Data(1).xlsx">Dataset</a>
+
 ## Objectives
     •	Perform data cleaning and transformation
 	•	Build interactive dashboards for business insights

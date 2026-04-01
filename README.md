@@ -41,3 +41,19 @@ The dashboard is broken down into several granular views:
     Outlet Establishment Trend: A line chart showing the growth of sales based on the year of outlet establishment (peaking in 2018 at $205K).
 
     Outlet Size & Location: * Size: Impact of Small, Medium, and High-sized outlets on revenue. (Location: Sales distribution across Tier 1, Tier 2, and Tier 3 cities.)
+	Outlet Type Comparison: A detailed matrix comparing Supermarket Types 1-3 and Grocery Stores across all KPIs.
+
+## Tools Used
+Power BI Desktop: For data transformation (Power Query) and visualization.
+
+DAX (Data Analysis Expressions): Used for creating calculated measures and KPIs.
+
+Excel/CSV: Source data format.
+
+## Dashboard Features
+	•	KPI cards for quick insights
+	•	Year-wise sales trend analysis
+	•	Category-wise product performance
+	•	Outlet size & location comparison
+	•	Interactive filters (Location, Size, Item Type)
+	•	Clean and user-friendly layout
